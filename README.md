@@ -8,7 +8,7 @@ It's a simple implementation that only supports planes and spheres. It includes:
 - anti-aliasing
 - multiple scenes
 
-there are some bugs and things but I probably won't be fixing them / working on this much as I build a larger-scale implementation in my free time
+there are some bugs and things but I probably won't be fixing them / working on this much as I build a larger-scale implementation from scratch in my free time
 
 # Example
 ![alt text](https://i.imgur.com/CgaPO45.png)
