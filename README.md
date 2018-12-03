@@ -2,6 +2,7 @@
 my first try at a ray tracer, written in C++ for my Computer Graphics course.
 
 It's a simple implementation that only supports planes and spheres. It includes:
+- phong shading/lighting
 - shadows
 - reflection
 - refraction
